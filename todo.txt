@@ -1,0 +1,4 @@
+1. Add Logs
+2. Add API keys to access backend endpoints
+3. Exception Handling
+4. Structure the code in a standard way
